@@ -4,6 +4,7 @@
 
 - Republika východu
 - Camelot
+- Rosto Steak House
 
 ### Attractions / Places to see
 
