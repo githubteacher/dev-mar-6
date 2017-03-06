@@ -9,6 +9,7 @@ Inchin Bamboo Garden(best indian-chineese cuisine)
 
 ### Attractions / Places to see
 SV Temple of NC
+Shirdi baba temple
 Bond Park
 Marble kids museum in Raleigh
 
