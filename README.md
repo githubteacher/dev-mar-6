@@ -7,6 +7,8 @@ ________              .__    .___              .__
 
 # GitHub for Developers
 
+<img src="http://kids.nationalgeographic.com/content/dam/kids/photos/animals/Mammals/H-P/platypus-closeup.jpg" />
+
 - March 6-7, 2017
 - Facilitators:
  - Hector Alfaro (@hectorsector)
