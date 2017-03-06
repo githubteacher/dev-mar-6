@@ -9,6 +9,7 @@
 
 - Chewacla Park
 - Auburn University
+- Tuskeegee Airmen National Historic Site
 
 ### Fun Nearby
 
