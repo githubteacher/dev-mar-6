@@ -4,6 +4,7 @@
 
 - Asador Soriano
 - O lar de Angel
+- Casa Pepe
 
 ### Attractions / Places to see
 
@@ -12,3 +13,4 @@
 ### Fun Nearby
 
 - Cangas Beaches
+
