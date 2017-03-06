@@ -9,7 +9,10 @@
 
 - Edinburgh Castle
 - Arthur's Seat
+- Mary King's Close
 
 ### Fun Nearby
 
 - Glasgow
+- Portobello Beach
+- Pentlands
