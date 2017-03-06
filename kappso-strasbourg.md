@@ -10,6 +10,7 @@ Blue Elephant
 
 Le Louvres
 La Tour Eiffel
+La Tour Montparnasse
 
 ### Fun Nearby
 
@@ -17,3 +18,4 @@ Eurodisney
 Dornier Palace
 Ronco's Garden
 Bezons, 95
+
