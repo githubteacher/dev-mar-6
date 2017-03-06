@@ -7,7 +7,7 @@
 
 ### Attractions/ Places to see
 
-=Carolina Mudcats
+=Carolina Mudcats Basebell
 
 ### Fun Nearby
 
