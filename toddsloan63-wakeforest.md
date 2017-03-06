@@ -8,7 +8,7 @@
 ### Attractions / Places to see
 
 - Natural History Museum
-- Greenway
+- Greenway -- paved bicycle trails
 
 ### Fun Nearby
 
