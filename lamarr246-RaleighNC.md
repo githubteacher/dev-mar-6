@@ -1,10 +1,14 @@
 # Raleigh, NC
-### Buffalo Road Aquatic Center
 ### Attractions
 - Wet-N-Wild Waterpark
 - Adventure Landings
 - NC Zoo
+- Frankie's Fun Park
 ### Restaurants
 - Flemings
 - McCormick
-## Brier Creek - restaurants, movies
+### Sports Facilities
+- Buffalo Road Aquatic Center
+- Millbrook Exchange Community Center
+### Other locations
+- Brier Creek - restaurants, movies
