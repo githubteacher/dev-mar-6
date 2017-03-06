@@ -8,7 +8,8 @@ The second wife (coming soon)
 
 ### Attractions / Places to see
 SV Temple of NC
-
+Bond Park
+Marble kids museum in Raleigh
 
 ### Fun nearby
 Bond park
