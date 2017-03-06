@@ -6,7 +6,7 @@
 
 ### Attractions / Places to see
  
-- Fenway Park
+- Fenway Park (avg ticket price $100+)
 
 ### Fun Nearby
 
