@@ -11,3 +11,4 @@
 ### Fun Nearby
 - RI
 - Maine
+- New Hampshire
