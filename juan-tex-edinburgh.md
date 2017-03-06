@@ -10,6 +10,7 @@
 
 - Calton Hill
 - The amazing Film Quiz at the Filmhouse
+- Wild West Edinburgh
 
 ### Fun Nearby
 
