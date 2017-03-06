@@ -11,3 +11,4 @@
 ### Fun Nearby
 
 - Freedom Trail
+- Cape Cod
