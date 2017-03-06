@@ -8,6 +8,7 @@
 ### Attractions / Places to see
 
 - Edinburgh Castle
+- Arthur's Seat
 
 ### Fun Nearby
 
