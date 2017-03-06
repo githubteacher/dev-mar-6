@@ -12,4 +12,4 @@
 ### Fun Places
 - Hooters
 - Sibaya
-- Beach
+- Suncoast Beach
