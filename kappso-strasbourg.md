@@ -1,4 +1,4 @@
-# Strasbourg, France
+# Paris, France
 
 ### Restaurants
 
