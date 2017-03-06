@@ -5,7 +5,7 @@
 - Sarma
 
 ### Attractions
-- Museum
+- Museum of Fine Arts, Museum of Science
 - Commons
 
 ### Fun Nearby
