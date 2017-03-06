@@ -1,10 +1,13 @@
 # Bangalore, KA
 
 ### Restaurants
-Grill House
+-Grill House
+-KFC
 
 ### Attractions
-Cubbon Park
+-Cubbon Park
+-Lalbag
 
 ### Fun Places
-Wonderla
+-Wonderla
+-Fun World
