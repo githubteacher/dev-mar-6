@@ -9,6 +9,7 @@
 
 ### Attractions / Places to see
 
+- Samil
 - Cies Islands
 
 ### Fun Nearby
