@@ -12,3 +12,4 @@
 ### Fun Places
 - Hooters
 - Sibaya
+- Beach
