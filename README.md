@@ -21,3 +21,5 @@
 ## Playgrounds for practicing branching
 - [LearnGitBranching](http://learngitbranching.js.org/?NODEMO)
 - [GitSchool - Visualizing Git](http://git-school.github.io/visualizing-git/)
+
+I don't see anything in the diff.
