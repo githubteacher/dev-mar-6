@@ -1,12 +1,17 @@
 # Durban, South Africa
 
 ### Restaurants
-four15
+
+- four15
+- Afros
 
 ### Attractions
-North Beach
-Moses Madiba Stadium
+
+- North Beach
+- Moses Madiba Stadium
 
 ### Things to do
-Surf
-MTB
+
+- Surf
+- MTB
+- Bodyboard
