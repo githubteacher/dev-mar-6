@@ -8,4 +8,4 @@
 - Mormon Temple
 
 ### Fun Nearby
-- Lagoon
+- Lagoon theme park
