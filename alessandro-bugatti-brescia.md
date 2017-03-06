@@ -12,4 +12,4 @@
 
 ### Fun Nearby
 
-- Gardaland
+- Gardaland is an amusement park with a lot of attractions such as Mammut, Jungle Rapids, Fuga Da Atlantide, Blue Tornado, so you can have a lot of fun.
