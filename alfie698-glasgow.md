@@ -14,4 +14,4 @@
 
 - Loch Lomond for wake boarding
 - Ben Lomond for hill waking
-- Falkirk Wheel
+- Falkirk Wheel is a canal boat lift
