@@ -2,7 +2,7 @@
 
 ### Restaurants
 
-- Black Dog Ballroom
+- Black Dog Ballroom - There's lots of dancing here
 - The Old Rectory
 
 ### Attractions / Places to see
