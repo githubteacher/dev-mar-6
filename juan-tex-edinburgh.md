@@ -2,8 +2,9 @@
 
 ### Resturants
 
-- Piatto Verde
-- Domenicos
+- Piatto Verde (recommended by a food critic)
+- Domenicos (recommended by a food critic)
+- La Favorita (so much better than Dominos!!!)
 
 ### Attractions / Places to see
 
