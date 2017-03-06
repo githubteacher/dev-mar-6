@@ -12,5 +12,6 @@
 
 ### Fun Nearby
 
-- Loch Lomond
+- Loch Lomond for wake boarding
+- Ben Lomond for hill waking
 - Falkirk Wheel
