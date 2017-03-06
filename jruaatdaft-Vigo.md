@@ -5,6 +5,7 @@
 - Asador Soriano
 - O lar de Angel
 - Casa Pepe
+- O buraquino
 
 ### Attractions / Places to see
 
