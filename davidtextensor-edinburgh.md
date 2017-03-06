@@ -3,6 +3,7 @@
 ### Restaurants
 
 -Pizza Hut
+-Desserts at bibi's bakery
 
 ### Attractions / Places to see
 
@@ -10,4 +11,4 @@
 
 ### Fun Nearby
 
--Princess street
+-Princess street -> Visit Scott Monument
