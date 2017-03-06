@@ -6,7 +6,7 @@
 -Le Peep
 
 ### Attractions
-Worlds of Fun
+
 
 ### Parks
 -Maple Hills Park
