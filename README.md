@@ -1,3 +1,7 @@
+<img src="http://pre10.deviantart.net/cfcd/th/pre/i/2004/03/2/8/rolling_stone_bart.jpg" />
+
+
+
 88D88IZDO?8D8IDDOO?+?I8+7$O?8II+$~?I++=I=+I77?=Z=====++===~=IZ$7Z$I?~:ZD7O=$OZ77
 ?ZDOD77IN8NDDND=I~+?Z$~?==~ZI?7?I$++?+?$I?Z?Z7+I~==+~?+===:=III7$II?~IOD8?O?OD8D
 D8?7+?I??$8DNDDNIO?77D~I$?7ZNOZ$ODDZZ7Z??=7+I8?+I~I:+=+7+?+:+++7+?I+~8NZZDD7+7$8
