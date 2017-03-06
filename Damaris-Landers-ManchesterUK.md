@@ -9,8 +9,10 @@
 
 - Arndale Centre
 - University of Manchester
+- Chinatown
 
 ### Fun Nearby
 
 - Trafford Centre
 - Jodrell Bank
+- Lake District
