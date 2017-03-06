@@ -12,5 +12,5 @@
 
 ### Fun Nearby
 
-- People Park
+- People Park, it is located in the center of Chengdu city.
 
