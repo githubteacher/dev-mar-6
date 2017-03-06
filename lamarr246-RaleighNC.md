@@ -1,5 +1,10 @@
 # Raleigh, NC
 ### Buffalo Road Aquatic Center
 ### Attractions
-## Adventure Landings
-### Brier Creek - restaurants, movies
+- Wet-N-Wild Waterpark
+- Adventure Landings
+- NC Zoo
+### Restaurants
+- Flemings
+- McCormick
+## Brier Creek - restaurants, movies
