@@ -2,13 +2,15 @@
 
 ### Restaurants
 
-jinjiang hotel
+- jinjiang hotel
+- Da Ronghe
 
 ### Attractions
 
-kuang zhai lane
+- kuangzhai lane
+- Wuhou Ci
 
 ### Fun Nearby
 
-People Park
+- People Park
 
