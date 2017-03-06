@@ -22,4 +22,3 @@
 - [LearnGitBranching](http://learngitbranching.js.org/?NODEMO)
 - [GitSchool - Visualizing Git](http://git-school.github.io/visualizing-git/)
 
-##bernie
