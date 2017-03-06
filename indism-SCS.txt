@@ -1,13 +1,14 @@
 
-# HOMETOWN recommendations
--- SCS marina
+#HOMETOWN recommendations
+*SCS marina
 
-## Great Places to Eat
--- Brownies
---  
+##Great Places to Eat
+*Brownies
+*Micheal's Cafe  
 
-## Fun Things to Do
+##Fun Things to Do
 
--- Biking 
--- Boating
+*Biking 
+*Boating
+*Fishing
 
