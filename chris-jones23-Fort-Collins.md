@@ -12,4 +12,4 @@
 
 ### Fun Nearby
 
-- Rocky Mountain National Park
+- Rocky Mountain National Park *for seasonal hours visit their website https://www.nps.gov/romo/planyourvisit/hours.htm*
