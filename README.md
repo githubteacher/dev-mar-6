@@ -15,7 +15,7 @@
 
 ## Resources
 
-- [GitHub for Developers Manual](github-for-developers-student-manual.pdf)
+- [GitHub for Developers Manual](https://github.github.io/training-manual/)
 - [git-scm](https://git-scm.com)
 
 ## Playgrounds for practicing branching
