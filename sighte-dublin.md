@@ -9,6 +9,7 @@
 
 - Saint Stephen's Green
 - Guinness Storehouse
+- Natural History Museum
 
 ### Fun nearby
 
