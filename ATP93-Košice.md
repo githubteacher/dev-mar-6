@@ -13,4 +13,4 @@
 ### Fun Nearby
 
 - Steel Arena
-- State Theatre
+- State Theatre (One Flew Over the Cuckoo's Nest)
