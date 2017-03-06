@@ -1,7 +1,14 @@
 # Durban, SA
 
-### Hooters
+### Restaurants
+- Hooters
+- Afros
+- Pizza Boys
 
-### Hooters
+### Attractions
+- Hooters
+- Ushaka Marine World
 
-### Hooters
+### Fun Places
+- Hooters
+- Sibaya
