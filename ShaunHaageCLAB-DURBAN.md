@@ -12,6 +12,5 @@
 
 ### Things to do
 
-- Surf
 - MTB
 - Bodyboard
