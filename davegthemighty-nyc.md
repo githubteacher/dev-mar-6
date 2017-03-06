@@ -2,16 +2,16 @@
 
 ### Restaurants 
 
-- One
-- Two
+- McD's
+- BK
 
 ### Attractions / Places to see
 
-- Three 
-- Four
+- That big park
+- And the big statue
 
 ### Fun Nearby
 
-- Fun
-- Six
+- Boston?
+- Canada...
 
