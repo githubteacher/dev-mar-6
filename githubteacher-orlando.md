@@ -8,6 +8,7 @@
 ### Attractions / Places to see
 
 - Disney World
+- Universal Studios Orlando
 
 ### Fun Nearby
 
