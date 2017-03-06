@@ -1,16 +1,17 @@
 # Knightdale, NC
 
-## Restaurants
+### Restaurants
 
 -Miltons
 -El Senor 
 
 ### Attractions/ Places to see
 
-=Carolina Mudcats Basebell
+-Carolina Mudcats Basebell
 
 ### Fun Nearby
 
 -Fish
+-Beach
 
 
