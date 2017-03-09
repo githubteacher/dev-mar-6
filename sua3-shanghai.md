@@ -7,3 +7,4 @@
 ### Attracions
 
 - Shanghai Disney Land
+- The Oriental Peal Tower
